@@ -1,7 +1,7 @@
 
 # Portfolio Project
 
-This is a portfolio project website showcasing personal or professional details.
+This is a portfolio project website showcasing personal or professional details .
 
 ## Features
 
